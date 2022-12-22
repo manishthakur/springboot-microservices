@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="other-mirror" />
+      <option name="name" value="Other Mirror Repository" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-repository" />
+      <option name="name" value="phire-archiva-repo-snapshots" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netflix-candidates" />
+      <option name="name" value="Netflix Candidates" />
+      <option name="url" value="https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss-ga-repository" />
+      <option name="name" value="JBoss GA Tech Preview Maven Repository" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="phire-snapshots" />
+      <option name="name" value="phire-archiva-repo-snapshots" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="Spring Milestones" />
+      <option name="url" value="https://repo.spring.io/milestone" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netflix-candidates" />
+      <option name="name" value="Netflix Candidates" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="spring-milestones" />
+      <option name="name" value="Spring Milestones" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="phire-internal" />
+      <option name="name" value="phire-archiva-repo" />
+      <option name="url" value="http://132.216.183.85/archiva/repository/internal" />
+    </remote-repository>
+  </component>
+</project>
